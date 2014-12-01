@@ -1,4 +1,4 @@
-package ca.canucksoftware.ssh;
+package ca.canuckcoding.ssh;
 
 import java.io.*;
 

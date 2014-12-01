@@ -1,7 +1,7 @@
 
-package ca.canucksoftware.ssh;
+package ca.canuckcoding.ssh;
 
-import ca.canucksoftware.webos.WebOSConnection;
+import ca.canuckcoding.webos.WebOSConnection;
 import java.io.File;
 import java.util.prefs.Preferences;
 import javax.swing.JOptionPane;

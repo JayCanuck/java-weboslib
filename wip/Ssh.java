@@ -1,5 +1,5 @@
 
-package ca.canucksoftware.ssh;
+package ca.canuckcoding.ssh;
 
 /*import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.KeyPair;*/
